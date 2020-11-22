@@ -1,0 +1,19 @@
+{
+  "name": "lllggghhhaaalogger",
+  "version": "1.0.0",
+  "description": "salva em um txt e printa no console mensagens e erros no lugar do console.log",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "log",
+    "logger"
+  ],
+  "author": "lllggghhhaaa",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
